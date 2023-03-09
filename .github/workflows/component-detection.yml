@@ -16,4 +16,4 @@ jobs:
       - name: Component detection 
         uses: jhutchings1/component-detection-action@v0.0.1
         with:
-          - detectorsFilter: Pip
+          detectorsFilter: Pip
